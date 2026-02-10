@@ -1,0 +1,1 @@
+console.log("This is Example of JS eecution")
